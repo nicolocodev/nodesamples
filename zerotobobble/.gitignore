@@ -1,0 +1,6 @@
+# .gitignore
+
+.vscode
+typings
+node_modules
+public/images

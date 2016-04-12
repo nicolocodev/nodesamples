@@ -1,0 +1,1 @@
+require(__dirname + '\\bin\\www');
